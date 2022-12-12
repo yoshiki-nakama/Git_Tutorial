@@ -2,7 +2,9 @@
 
 int main(void)
 {
-	printf("Hallo World");
+	printf("Hallo Git World!!\n");
+
+	printf("‚¨”æ‚ê—l‚Å‚·B\n");
 
 	return 0;
 }
